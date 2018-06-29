@@ -1,0 +1,7 @@
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\bin\x64\Release\sync_read_write.exe.config
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\bin\x64\Release\sync_read_write.exe
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\bin\x64\Release\sync_read_write.pdb
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\obj\x64\Release\sync_read_write.csprojResolveAssemblyReference.cache
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\obj\x64\Release\sync_read_write.csproj.CoreCompileInputs.cache
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\obj\x64\Release\sync_read_write.exe
+C:\Users\노예\Desktop\DynamixelSDK-3.5.4\c#\protocol2.0\sync_read_write\win64\sync_read_write\obj\x64\Release\sync_read_write.pdb
